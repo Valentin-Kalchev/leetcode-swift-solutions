@@ -57,4 +57,5 @@ class Solution {
 }
 
 let solution = Solution()
-solution.nextGreaterElements([100,1,11,1,120,111,123,1,-1,-100])
+let array = [100,1,11,1,120,111,123,1,-1,-100]
+solution.nextGreaterElements(array)
